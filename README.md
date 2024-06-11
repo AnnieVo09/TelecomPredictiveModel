@@ -1,6 +1,6 @@
 **Telecom Marketing Analysis And Predictive Model**
 
-# **Bank Marketing**
+# **Telecom Marketing Analysis And Predictive Model**
 ## **Abstract:**
 The data is related with direct marketing campaigns (phone calls) of a Telecom company. The classification goal is to predict if the client will subscribe a new telecom plan (variable y).
 
